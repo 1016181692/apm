@@ -4,7 +4,9 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import java.io.Serializable;
 import java.util.Date;
 
-
+/**
+ *  新增注释
+ */
 public class LoggerDTO implements Serializable {
 
     private Integer id;
