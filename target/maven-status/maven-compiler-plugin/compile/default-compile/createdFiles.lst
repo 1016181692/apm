@@ -1,0 +1,6 @@
+com\allianty\EloggerApplication.class
+com\allianty\entity\LoggerDTO.class
+com\allianty\annotation\AopLogger.class
+com\allianty\util\HttpUtils.class
+com\allianty\annotation\LogAspect.class
+com\allianty\controller\LoggerController.class

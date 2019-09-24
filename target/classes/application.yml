@@ -1,0 +1,19 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /elogger
+
+#spring:
+#  datasource:
+#    name: navy
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://127.0.0.1:3306/navy?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+#    username: root
+#    password: root
+#  boot:
+#    admin:
+#      client:
+#        url: http://localhost:8081/elogger
+#mybatis:
+#  mapper-locations: classpath:mapper/*.xml
+#  type-aliases-package: com.allianty.entity
